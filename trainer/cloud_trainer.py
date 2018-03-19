@@ -1,4 +1,4 @@
-__author__='Pablo Leal'
+__author__='PabloLeal'
 
 import argparse
 
